@@ -1,7 +1,9 @@
 {
   "name": "api_node",
   "version": "1.0.0",
+  "description": "API sencilla con el módulo http de Node",
   "main": "app.js",
-  "scripts": { "start": "node app.js" },
-  "dependencies": { "express": "^4.19.2" }
+  "scripts": {
+    "start": "node app.js"
+  }
 }
